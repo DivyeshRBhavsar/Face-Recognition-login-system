@@ -12,19 +12,7 @@ Web Cam
 
 Run Process:
 
-First Step--> 
-
-Put them in a single folder. Create a folder name faces.
-
-
-Second Step-->
-
-First, run Facial_Recognition_Part1.py. It will take your 100-copy picture for training the machine. The photos will be stored in the faces folder.
-
-Third Step-->
-
-Then run the Facial_Recognition_Part2.py. This is to train your machine.
-
-Fourth Step-->
-
-Then run the Facial_Recognition_Part3.py. This will give the output.
+Step 1 : Sign up in the form and it will collecr 100 images of your face and save in a specific folder.
+Step 2 : the login process starts by entering the credential and train the model and check for face.
+Step 3 : The unknoen face will capture in the folder for references.
+Step 4 : The accuracy maintains upto 96% and giving the result.
